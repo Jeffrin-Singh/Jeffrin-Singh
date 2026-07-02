@@ -1,118 +1,66 @@
-# Hi 👋, I'm Jeffrin Singh
+# 👋 Hey, I'm Jeffrin Singh
 
-### AI Engineer | Computer Vision Developer | Python Developer | Final Year CSE Student
+> **I don't just train AI models—I build complete AI products.**
 
----
+I'm a Final Year Computer Science Engineering student from India who enjoys turning research papers and open-source models into real-world applications.
 
-## 🚀 About Me
-
-I'm a Final Year Computer Science Engineering student passionate about building AI-powered applications that solve real-world problems.
-
-* 🔭 Currently working on **AI Document Intelligence Platform**
-* 🤖 Interested in **Computer Vision, OCR, Vision Language Models, and AI Automation**
-* 🌱 Learning **LocateAnything-3B, PaddleOCR, FastAPI, Docker, and Production AI Deployment**
-* 💡 Goal: Become an AI Engineer building scalable AI products.
-* 📍 Tamil Nadu, India
+Currently focused on **Computer Vision**, **OCR**, **Vision Language Models**, and **Production AI Systems**.
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Current Mission
 
-* 🌍 Portfolio: https://jeffrin-singh-r-portfolio.vercel.app/
-* 💼 LinkedIn: https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/
-* 💻 GitHub: https://github.com/Jeffrin-Singh
+I'm building an AI ecosystem where machines can:
 
----
+* 👀 Detect objects
+* 📄 Understand documents
+* 🔍 Read text from images
+* 🚗 Recognize vehicle number plates
+* 🤖 Answer questions about visual content
 
-# 💻 Tech Stack
-
-### Programming Languages
-
-* Python
-* C
-* C++
-* Java
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-
-### AI & Machine Learning
-
-* OpenCV
-* TensorFlow
-* PyTorch
-* PaddleOCR
-* YOLOv8
-* LocateAnything-3B
-* Gemini API
-
-### Backend
-
-* Flask
-* Django
-* FastAPI
-
-### Frontend
-
-* React
-* Bootstrap
-* HTML
-* CSS
-
-### Database
-
-* PostgreSQL
-* MySQL
-* SQL Server
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Docker
-* Linux
-* Windows
-* Figma
+Every project I build moves one step closer to that goal.
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 What I'm Working On
 
-## 📄 AI Document Intelligence Platform
+### 📄 AI Document Intelligence
 
-An AI-powered document processing system capable of:
+A production-ready OCR pipeline capable of:
 
 * PDF Processing
-* OCR
+* Layout Analysis
 * Text Detection
+* Text Recognition
 * Document Understanding
-* Vision Language Models
-* PostgreSQL Integration
+* Vision-Language AI
+* Database Integration
 
-**Tech Used**
+**Stack**
 
-Python • Flask • PaddleOCR • LocateAnything-3B • OpenCV • PostgreSQL
+`Python` • `PaddleOCR` • `LocateAnything-3B` • `OpenCV` • `Flask` • `PostgreSQL`
 
 ---
 
-## 🚗 ANRAV RoadEye
+### 🚘 ANRAV RoadEye
 
-Automatic Number Plate Recognition System featuring:
+An AI-powered Automatic Number Plate Recognition platform.
+
+Features include:
 
 * Vehicle Detection
 * Plate Detection
 * OCR Recognition
-* Real-Time Processing
-* Dashboard
+* Search Dashboard
+* Real-time Processing
 
 ---
 
-## 🎨 AirDraw
+### 🎨 AirDraw
 
-Hand Gesture Drawing Recognition using:
+Draw with your hands in the air.
+
+Using:
 
 * MediaPipe
 * OpenCV
@@ -121,57 +69,122 @@ Hand Gesture Drawing Recognition using:
 
 ---
 
-## 🌐 Portfolio Website
+# 🧰 My Toolbox
 
-Modern responsive portfolio showcasing:
+### Languages
 
-* Skills
-* Projects
-* Resume
-* Contact Information
+Python • C • C++ • Java • JavaScript • SQL
 
-🔗 https://jeffrin-singh-r-portfolio.vercel.app/
+### AI
+
+Computer Vision
+
+Deep Learning
+
+YOLO
+
+PaddleOCR
+
+OpenCV
+
+TensorFlow
+
+PyTorch
+
+Vision Language Models
+
+### Backend
+
+Flask
+
+Django
+
+FastAPI
+
+REST APIs
+
+### Frontend
+
+React
+
+HTML
+
+CSS
+
+Bootstrap
+
+### Database
+
+PostgreSQL
+
+MySQL
+
+SQL Server
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Philosophy
 
-![Jeffrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffrin-Singh\&show_icons=true\&theme=tokyonight)
+I believe AI projects should be:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrin-Singh\&layout=compact\&theme=tokyonight)
+* Accurate
+* Fast
+* Scalable
+* Deployable
+* Useful
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeffrin-Singh\&theme=tokyonight)
+Not just notebooks that work once.
+
+---
+
+# 📊 GitHub Dashboard
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jeffrin-Singh\&show_icons=true\&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrin-Singh\&layout=compact\&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeffrin-Singh\&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffrin-Singh\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffrin-Singh\&theme=tokyo-night)
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌍 Find Me
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jeffrin-Singh\&theme=tokyonight)
+💼 LinkedIn
 
----
+https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/
 
-# 👀 Visitor Count
+🌐 Portfolio
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Jeffrin-Singh\&label=Profile%20Views\&color=0e75b6\&style=flat)
+https://jeffrin-singh-r-portfolio.vercel.app/
 
----
+💻 GitHub
 
-# 📫 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/
-* 🌍 Portfolio: https://jeffrin-singh-r-portfolio.vercel.app/
-* 💻 GitHub: https://github.com/Jeffrin-Singh
+https://github.com/Jeffrin-Singh
 
 ---
 
-## 💬 Quote
+# 🚀 2026 Goals
 
-> **"Building AI solutions that transform ideas into reality."**
+* Build an enterprise-grade Document Intelligence platform
+* Contribute to open-source AI projects
+* Publish production-ready Computer Vision repositories
+* Master Vision Language Models
+* Secure an AI Engineer role
 
-⭐ **Thanks for visiting my profile!**
+---
+
+# 💭 Favorite Quote
+
+> **"AI isn't magic. It's engineering, iteration, and relentless curiosity."**
+
+---
+
+### Thanks for stopping by.
+
+If you're interested in AI, Computer Vision, or OCR, feel free to explore my repositories.
