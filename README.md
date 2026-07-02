@@ -53,7 +53,7 @@ Developing a secure subscription management platform with authentication, paymen
 
 ### Languages
 
-Python • C • C++ • Java • JavaScript • SQL
+Python • C • JavaScript • SQL
 
 ### AI
 
