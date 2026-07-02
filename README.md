@@ -1,206 +1,177 @@
-```markdown
-<h1 align="center">Hi 👋 I'm Jeffrin Singh</h1>
+# Hi 👋, I'm Jeffrin Singh
 
-<h3 align="center">
-AI Engineer • Computer Vision • OCR • Python Developer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Developer;OCR+Pipeline+Developer;Flask+%7C+Python+Developer;Building+Production+Ready+AI+Applications"/>
-</p>
-
-<p align="center">
-
-<a href="https://jeffrin-singh-r-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/">
-<img src="https://img.shields.io/badge/LinkedIn-Jeffrin%20Singh-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+### AI Engineer | Computer Vision Developer | Python Developer | Final Year CSE Student
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Final Year Computer Science Engineering Student
+I'm a Final Year Computer Science Engineering student passionate about building AI-powered applications that solve real-world problems.
 
-💻 Passionate about Artificial Intelligence, Computer Vision and Document Intelligence.
-
-🔍 Interested in
-
-- Computer Vision
-- OCR Systems
-- Vision Language Models
-- Deep Learning
-- Backend Development
-
-🌱 Currently Learning
-
-- LocateAnything-3B
-- PaddleOCR
-- FastAPI
-- Docker
-- PostgreSQL
-- Production AI Deployment
+* 🔭 Currently working on **AI Document Intelligence Platform**
+* 🤖 Interested in **Computer Vision, OCR, Vision Language Models, and AI Automation**
+* 🌱 Learning **LocateAnything-3B, PaddleOCR, FastAPI, Docker, and Production AI Deployment**
+* 💡 Goal: Become an AI Engineer building scalable AI products.
+* 📍 Tamil Nadu, India
 
 ---
 
-# 💼 Featured Projects
+## 🌐 Connect With Me
 
-## 📄 AI Document Intelligence Platform
-
-An intelligent OCR system capable of
-
-- PDF Processing
-- Text Detection
-- OCR Recognition
-- Document Understanding
-- VLM Integration
-- PostgreSQL Storage
-
-**Tech Stack**
-
-Python • PaddleOCR • LocateAnything-3B • Flask • OpenCV • PostgreSQL
-
----
-
-## 🚗 ANRAV RoadEye
-
-AI-powered Automatic Number Plate Recognition System
-
-Features
-
-- Vehicle Detection
-- Plate Detection
-- OCR Recognition
-- Real-time Processing
-- Dashboard
-
----
-
-## 🌐 Portfolio Website
-
-Modern responsive portfolio showcasing
-
-- Projects
-- Skills
-- Resume
-- Contact
-
-🔗 https://jeffrin-singh-r-portfolio.vercel.app/
+* 🌍 Portfolio: https://jeffrin-singh-r-portfolio.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/
+* 💻 GitHub: https://github.com/Jeffrin-Singh
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,sql"/>
-</p>
+* Python
+* C
+* C++
+* Java
+* JavaScript
+* HTML5
+* CSS3
+* SQL
 
 ### AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
-
-Additional
-
-- PaddleOCR
-- YOLO
-- LocateAnything-3B
-- Gemini API
+* OpenCV
+* TensorFlow
+* PyTorch
+* PaddleOCR
+* YOLOv8
+* LocateAnything-3B
+* Gemini API
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
+* Flask
+* Django
+* FastAPI
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css"/>
-</p>
+* React
+* Bootstrap
+* HTML
+* CSS
+
+### Database
+
+* PostgreSQL
+* MySQL
+* SQL Server
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma"/>
-</p>
+* Git
+* GitHub
+* VS Code
+* Postman
+* Docker
+* Linux
+* Windows
+* Figma
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
 
-<p align="center">
+## 📄 AI Document Intelligence Platform
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeffrin-Singh&show_icons=true&theme=tokyonight"/>
+An AI-powered document processing system capable of:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrin-Singh&layout=compact&theme=tokyonight"/>
+* PDF Processing
+* OCR
+* Text Detection
+* Document Understanding
+* Vision Language Models
+* PostgreSQL Integration
 
-</p>
+**Tech Used**
 
-<p align="center">
+Python • Flask • PaddleOCR • LocateAnything-3B • OpenCV • PostgreSQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffrin-Singh&theme=tokyonight"/>
+---
 
-</p>
+## 🚗 ANRAV RoadEye
+
+Automatic Number Plate Recognition System featuring:
+
+* Vehicle Detection
+* Plate Detection
+* OCR Recognition
+* Real-Time Processing
+* Dashboard
+
+---
+
+## 🎨 AirDraw
+
+Hand Gesture Drawing Recognition using:
+
+* MediaPipe
+* OpenCV
+* CNN
+* Flask
+
+---
+
+## 🌐 Portfolio Website
+
+Modern responsive portfolio showcasing:
+
+* Skills
+* Projects
+* Resume
+* Contact Information
+
+🔗 https://jeffrin-singh-r-portfolio.vercel.app/
+
+---
+
+# 📊 GitHub Stats
+
+![Jeffrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffrin-Singh\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrin-Singh\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeffrin-Singh\&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffrin-Singh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffrin-Singh\&theme=tokyo-night)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jeffrin-Singh&theme=tokyonight&margin-w=12"/>
-
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jeffrin-Singh\&theme=tokyonight)
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Visitor Count
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jeffrin-Singh&style=for-the-badge"/>
-
-</p>
+![Visitor Badge](https://komarev.com/ghpvc/?username=Jeffrin-Singh\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-Portfolio:
-https://jeffrin-singh-r-portfolio.vercel.app/
-
-LinkedIn:
-https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/
-
-GitHub:
-https://github.com/Jeffrin-Singh
+* 💼 LinkedIn: https://www.linkedin.com/in/jeffrin-singh-r-6721792a3/
+* 🌍 Portfolio: https://jeffrin-singh-r-portfolio.vercel.app/
+* 💻 GitHub: https://github.com/Jeffrin-Singh
 
 ---
 
-> **"Turning ideas into intelligent AI solutions."**
-```
+## 💬 Quote
+
+> **"Building AI solutions that transform ideas into reality."**
+
+⭐ **Thanks for visiting my profile!**
