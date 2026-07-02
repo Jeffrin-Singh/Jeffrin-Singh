@@ -48,45 +48,47 @@ Building an AI-powered face recognition platform for identity verification, atte
 ### 💳 Secure Payment & Subscription System
 Developing a secure subscription management platform with authentication, payment gateway integration, licensing, and user management.
 
-**Tech:** Flask • PostgreSQL • Razorpay • JWT • REST API
-# ⚙️ AI Engineer Workspace
+# 🏗 Technology Blueprint
 
-<table>
-<tr>
-<td width="50%">
+```
 
-### 🧠 Intelligence
+🧠 Artificial Intelligence
+│
+├── Computer Vision
+├── OCR
+├── Vision Language Models
+├── Face Recognition
+└── Deep Learning
 
-- 🤖 Computer Vision
-- 👁️ Vision Language Models
-- 📄 OCR & Document AI
-- 🚘 ANPR Systems
-- 👤 Face Recognition
+⚙ Backend
+│
+├── Flask
+├── FastAPI
+├── Django
+└── REST APIs
 
-</td>
+🌐 Frontend
+│
+├── React
+├── HTML
+├── CSS
+└── Bootstrap
 
-<td width="50%">
+🗄 Database
+│
+├── PostgreSQL
+├── SQL Server
+└── MySQL
 
-### 💻 Development
+🛠 Development
+│
+├── Python
+├── Git
+├── Docker
+├── VS Code
+└── Linux
 
-- 🐍 Python
-- ⚡ Flask & FastAPI
-- 🌐 React
-- 🗄 PostgreSQL
-- 🔗 REST APIs
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔬 AI Toolkit
-
-`YOLO` • `PaddleOCR` • `LocateAnything-3B` • `OpenCV` • `PyTorch` • `TensorFlow` • `ONNX Runtime`
-
----
-
+```
 ### 🛠 Daily Tools
 
 VS Code • Git • GitHub • Postman • Docker • Linux
