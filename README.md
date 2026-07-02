@@ -22,53 +22,33 @@ Every project I build moves one step closer to that goal.
 
 ---
 
-# 🧠 What I'm Working On
+# 🚀 What I'm Working On
 
-### 📄 AI Document Intelligence
+### 📄 ANRAV AI Document Intelligence
+Building an enterprise-grade AI platform for document understanding with OCR, layout analysis, Vision Language Models, and intelligent data extraction.
 
-A production-ready OCR pipeline capable of:
-
-* PDF Processing
-* Layout Analysis
-* Text Detection
-* Text Recognition
-* Document Understanding
-* Vision-Language AI
-* Database Integration
-
-**Stack**
-
-`Python` • `PaddleOCR` • `LocateAnything-3B` • `OpenCV` • `Flask` • `PostgreSQL`
+**Tech:** Python • PaddleOCR • LocateAnything-3B • OpenCV • Flask • PostgreSQL
 
 ---
 
-### 🚘 ANRAV RoadEye
+### 🚗 ANRAV RoadEye (ANPR)
+Developing a real-time Automatic Number Plate Recognition system for vehicle detection, plate recognition, and smart search dashboard.
 
-An AI-powered Automatic Number Plate Recognition platform.
-
-Features include:
-
-* Vehicle Detection
-* Plate Detection
-* OCR Recognition
-* Search Dashboard
-* Real-time Processing
+**Tech:** YOLO • OpenCV • PaddleOCR • Flask
 
 ---
 
-### 🎨 AirDraw
+### 👤 ANRAV Vision
+Building an AI-powered face recognition platform for identity verification, attendance, and surveillance applications.
 
-Draw with your hands in the air.
-
-Using:
-
-* MediaPipe
-* OpenCV
-* CNN
-* Flask
+**Tech:** InsightFace • ArcFace • OpenCV • ONNX Runtime • Flask
 
 ---
 
+### 💳 Secure Payment & Subscription System
+Developing a secure subscription management platform with authentication, payment gateway integration, licensing, and user management.
+
+**Tech:** Flask • PostgreSQL • Razorpay • JWT • REST API
 # 🧰 My Toolbox
 
 ### Languages
