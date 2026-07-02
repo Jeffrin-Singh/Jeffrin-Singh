@@ -117,19 +117,14 @@ Not just notebooks that work once.
 
 ---
 
-# 📊 GitHub Dashboard
+## 📈 Contribution Graph
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jeffrin-Singh\&show_icons=true\&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffrin-Singh&theme=tokyo-night)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrin-Singh\&layout=compact\&theme=tokyonight)
+## 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeffrin-Singh\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jeffrin-Singh&theme=tokyonight)
 
----
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffrin-Singh\&theme=tokyo-night)
 
 ---
 
