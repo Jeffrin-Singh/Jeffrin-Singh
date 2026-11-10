@@ -44,6 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeffrin%20Singh%20R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffrin-singh-r-6721792a3)
 [![Instagram](https://img.shields.io/badge/Instagram-@alonzo.fx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alonzo.fx_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel)](https://jeffrin-singh-r-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-jeffrin.singh.r@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrin.singh.r@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jeffrinsingh854@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrinsingh854@gmail.com)
 
 </div>
