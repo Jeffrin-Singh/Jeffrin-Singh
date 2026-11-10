@@ -30,8 +30,8 @@
 <!-- LIVE GITHUB DATA (optional, auto-updating) -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffrin-Singh&theme=radical&hide_border=true" height="150" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrin-Singh&layout=compact&theme=radical&hide_border=true" height="150" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com/?user=Jeffrin-Singh&theme=radical&hide_border=true" height="150" alt="GitHub streak"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeffrin-Singh&layout=compact&theme=radical&hide_border=true" height="150" alt="Top languages"/>
 
 </div>
 
