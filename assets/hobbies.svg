@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="300" viewBox="0 0 495 300" font-family="'Segoe UI',Ubuntu,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0620"/><stop offset="1" stop-color="#1a0b3d"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".6" stop-color="#a78bfa"/><stop offset="1" stop-color="#f0abfc"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="col" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset=".6" stop-color="#22d3ee"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient>
+<linearGradient id="ringCode" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#0284c7"/></linearGradient>
+<linearGradient id="ringFit" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fde047"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+<linearGradient id="ringLearn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6d5bd0"/><stop offset=".6" stop-color="#f59e6b"/><stop offset="1" stop-color="#7c3a8a"/></linearGradient>
+<clipPath id="cp"><rect x="40" y="64" width="250" height="180" rx="12"/></clipPath>
+</defs>
+<rect x="2" y="2" width="491" height="296" rx="18" fill="url(#bg)" stroke="url(#neon)" stroke-width="1.5"/>
+<text x="24" y="40" font-size="20" font-weight="700" fill="#fff">🎮 Hobbies</text>
+<rect x="300" y="32" width="60" height="4" rx="2" fill="#6366f1"/>
+<rect x="366" y="32" width="30" height="4" rx="2" fill="#ec4899"/>
+<rect x="402" y="32" width="70" height="4" rx="2" fill="#334155"/>
+
+<!-- CAROUSEL -->
+<g clip-path="url(#cp)">
+<rect x="40" y="64" width="250" height="180" fill="url(#sky)"/>
+<polygon points="40,244 120,150 170,190 230,120 290,244" fill="#2a1a4a"/>
+<circle cx="99" cy="150" r="0"/>
+<circle cx="150" cy="190" r="10" fill="#0b0a1f"/>
+<rect x="144" y="198" width="12" height="26" fill="#0b0a1f"/>
+<rect x="40" y="190" width="250" height="54" fill="#000" opacity=".45"/>
+</g>
+<text x="52" y="222" font-size="18" font-weight="700" fill="#fff">Traveling</text>
+<text x="52" y="238" font-size="10" fill="#e5e7eb">Exploring new places, cultures</text>
+<text x="18" y="160" font-size="20" fill="#e5e7eb">‹</text>
+<text x="296" y="160" font-size="20" fill="#e5e7eb">›</text>
+<circle cx="140" cy="262" r="3" fill="#a78bfa"/>
+<circle cx="154" cy="262" r="3" fill="#475569"/>
+<circle cx="168" cy="262" r="3" fill="#475569"/>
+<circle cx="182" cy="262" r="3" fill="#475569"/>
+
+<!-- DAILY RINGS CARD -->
+<rect x="306" y="64" width="178" height="180" rx="12" fill="#14102e" stroke="#4c3fa8"/>
+<circle cx="323" cy="88" r="3.5" fill="#22c55e"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="333" y="92" font-size="13.5" font-weight="700" fill="#fff">Daily Rings</text>
+<text x="472" y="91" font-size="8.5" font-family="monospace" font-weight="600" fill="#a78bfa" text-anchor="end" letter-spacing="1">● ACTIVE</text>
+<line x1="306" y1="102" x2="484" y2="102" stroke="#312e81" stroke-opacity=".5" stroke-width="1"/>
+
+<!-- RING 1: Code -->
+<circle cx="337" cy="138" r="22" fill="#0d0a22"/>
+<circle cx="337" cy="138" r="19" fill="none" stroke="#241e54" stroke-width="5"/>
+<circle cx="337" cy="138" r="19" fill="none" stroke="url(#ringCode)" stroke-width="5" stroke-linecap="round" stroke-dasharray="0 119.4" transform="rotate(-90 337 138)">
+<animate attributeName="stroke-dasharray" from="0 119.4" to="95.5 119.4" dur="1.5s" fill="freeze"/>
+</circle>
+<text x="337" y="142" font-size="11.5" font-weight="800" font-family="'Segoe UI',monospace" fill="#22d3ee" text-anchor="middle">&lt;/&gt;</text>
+<text x="337" y="180" font-size="11" font-weight="600" fill="#94a3b8" text-anchor="middle">Code</text>
+<text x="337" y="198" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">6h</text>
+<text x="337" y="214" font-size="9" font-family="monospace" font-weight="600" fill="#22d3ee" text-anchor="middle">80%</text>
+
+<!-- RING 2: Fitness -->
+<circle cx="395" cy="138" r="22" fill="#0d0a22"/>
+<circle cx="395" cy="138" r="19" fill="none" stroke="#241e54" stroke-width="5"/>
+<circle cx="395" cy="138" r="19" fill="none" stroke="url(#ringFit)" stroke-width="5" stroke-linecap="round" stroke-dasharray="0 119.4" transform="rotate(-90 395 138)">
+<animate attributeName="stroke-dasharray" from="0 119.4" to="113.4 119.4" dur="1.5s" fill="freeze"/>
+</circle>
+<text x="395" y="143" font-size="13" text-anchor="middle">🏋</text>
+<text x="395" y="180" font-size="11" font-weight="600" fill="#94a3b8" text-anchor="middle">Fitness</text>
+<text x="395" y="198" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">1h</text>
+<text x="395" y="214" font-size="9" font-family="monospace" font-weight="600" fill="#facc15" text-anchor="middle">100%</text>
+
+<!-- RING 3: Learn -->
+<circle cx="453" cy="138" r="22" fill="#0d0a22"/>
+<circle cx="453" cy="138" r="19" fill="none" stroke="#241e54" stroke-width="5"/>
+<circle cx="453" cy="138" r="19" fill="none" stroke="url(#ringLearn)" stroke-width="5" stroke-linecap="round" stroke-dasharray="0 119.4" transform="rotate(-90 453 138)">
+<animate attributeName="stroke-dasharray" from="0 119.4" to="101.5 119.4" dur="1.5s" fill="freeze"/>
+</circle>
+<text x="453" y="143" font-size="13" text-anchor="middle">📖</text>
+<text x="453" y="180" font-size="11" font-weight="600" fill="#94a3b8" text-anchor="middle">Learn</text>
+<text x="453" y="198" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">2h</text>
+<text x="453" y="214" font-size="9" font-family="monospace" font-weight="600" fill="#34d399" text-anchor="middle">85%</text>
+</svg>

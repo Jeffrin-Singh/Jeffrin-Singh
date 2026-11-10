@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" font-family="'Segoe UI',Ubuntu,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0620"/><stop offset="1" stop-color="#1a0b3d"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".6" stop-color="#a78bfa"/><stop offset="1" stop-color="#f0abfc"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="col" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset=".6" stop-color="#22d3ee"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="996" height="286" rx="18" fill="url(#bg)" stroke="url(#neon)" stroke-width="1.5"/>
+
+<!-- TECH ORBIT -->
+<text x="24" y="40" font-size="20" font-weight="700" fill="#fff">⚛️ Tech Orbit</text>
+<text x="340" y="40" font-size="20" font-weight="700" fill="#fff">🧩 Skill Chips</text>
+<circle cx="170" cy="170" r="42" fill="#0b0a1f" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+<text x="170" y="178" font-size="22" font-weight="800" text-anchor="middle" fill="#fff">Git</text>
+<ellipse cx="170" cy="170" rx="130" ry="62" fill="none" stroke="#6366f1" stroke-opacity=".6" stroke-width="2" transform="rotate(0 170 170)"/>
+<ellipse cx="170" cy="170" rx="95" ry="40" fill="none" stroke="#22d3ee" stroke-opacity=".4" stroke-width="1.5" transform="rotate(12 170 170)"/>
+<g><circle r="19" fill="#0b0a1f" stroke="#facc15" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#facc15">Py</text><animateMotion dur="21s" begin="-0s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+<g><circle r="19" fill="#0b0a1f" stroke="#22d3ee" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#22d3ee">⚛</text><animateMotion dur="21s" begin="-3s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+<g><circle r="19" fill="#0b0a1f" stroke="#a3e635" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#a3e635">JS</text><animateMotion dur="21s" begin="-6s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+<g><circle r="19" fill="#0b0a1f" stroke="#fb923c" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#fb923c">TF</text><animateMotion dur="21s" begin="-9s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+<g><circle r="19" fill="#0b0a1f" stroke="#60a5fa" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#60a5fa">PG</text><animateMotion dur="21s" begin="-12s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+<g><circle r="19" fill="#0b0a1f" stroke="#38bdf8" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#38bdf8">🐳</text><animateMotion dur="21s" begin="-15s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+<g><circle r="19" fill="#0b0a1f" stroke="#ef4444" stroke-width="2"/><text y="5" font-size="13" font-weight="700" text-anchor="middle" fill="#ef4444">A</text><animateMotion dur="21s" begin="-18s" repeatCount="indefinite" path="M300,170 A130,62 0 1,1 40,170 A130,62 0 1,1 300,170" rotate="0"/></g>
+
+<!-- COLUMN 1: Frontend -->
+<rect x="340" y="60" width="154" height="212" rx="12" fill="#120e2e" stroke="#3b2f80" stroke-width="1.2"/>
+<text x="352" y="83" font-size="13" font-weight="700" fill="#fff">⚡ Frontend</text>
+<line x1="340" y1="94" x2="494" y2="94" stroke="#22d3ee" stroke-opacity=".7" stroke-width="1.5"/>
+
+<rect x="348" y="104" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="354" y="109" width="22" height="22" rx="5" fill="#082f49"/>
+<text x="365" y="125" font-size="13" text-anchor="middle" fill="#38bdf8">⚛</text>
+<text x="384" y="124.5" font-size="11" font-weight="600" fill="#f8fafc">React</text>
+<circle cx="474" cy="120" r="3" fill="#22d3ee" opacity=".85"/>
+
+<rect x="348" y="144" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="354" y="149" width="22" height="22" rx="5" fill="#431407"/>
+<text x="365" y="164.5" font-size="10.5" font-weight="800" text-anchor="middle" fill="#fb923c">H5</text>
+<text x="384" y="164.5" font-size="11" font-weight="600" fill="#f8fafc">HTML5</text>
+<circle cx="474" cy="160" r="3" fill="#22d3ee" opacity=".85"/>
+
+<rect x="348" y="184" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="354" y="189" width="22" height="22" rx="5" fill="#0c2d48"/>
+<text x="365" y="204.5" font-size="10.5" font-weight="800" text-anchor="middle" fill="#38bdf8">C3</text>
+<text x="384" y="204.5" font-size="11" font-weight="600" fill="#f8fafc">CSS3</text>
+<circle cx="474" cy="200" r="3" fill="#22d3ee" opacity=".85"/>
+
+<rect x="348" y="224" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="354" y="229" width="22" height="22" rx="5" fill="#2e1065"/>
+<text x="365" y="245" font-size="11.5" font-weight="800" text-anchor="middle" fill="#c084fc">B</text>
+<text x="384" y="244.5" font-size="11" font-weight="600" fill="#f8fafc">Bootstrap</text>
+<circle cx="474" cy="240" r="3" fill="#22d3ee" opacity=".85"/>
+
+<!-- COLUMN 2: Backend -->
+<rect x="502" y="60" width="154" height="212" rx="12" fill="#120e2e" stroke="#3b2f80" stroke-width="1.2"/>
+<text x="514" y="83" font-size="13" font-weight="700" fill="#fff">⚙️ Backend</text>
+<line x1="502" y1="94" x2="656" y2="94" stroke="#4ade80" stroke-opacity=".7" stroke-width="1.5"/>
+
+<rect x="510" y="104" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="516" y="109" width="22" height="22" rx="5" fill="#064e3b"/>
+<text x="527" y="125" font-size="10.5" font-weight="800" text-anchor="middle" fill="#34d399">Fk</text>
+<text x="546" y="124.5" font-size="11" font-weight="600" fill="#f8fafc">Flask</text>
+<circle cx="636" cy="120" r="3" fill="#4ade80" opacity=".85"/>
+
+<rect x="510" y="144" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="516" y="149" width="22" height="22" rx="5" fill="#052e16"/>
+<text x="527" y="165" font-size="10.5" font-weight="800" text-anchor="middle" fill="#4ade80">Dj</text>
+<text x="546" y="164.5" font-size="11" font-weight="600" fill="#f8fafc">Django</text>
+<circle cx="636" cy="160" r="3" fill="#4ade80" opacity=".85"/>
+
+<rect x="510" y="184" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="516" y="189" width="22" height="22" rx="5" fill="#14532d"/>
+<text x="527" y="205" font-size="10.5" font-weight="800" text-anchor="middle" fill="#86efac">JS</text>
+<text x="546" y="204.5" font-size="11" font-weight="600" fill="#f8fafc">Node.js</text>
+<circle cx="636" cy="200" r="3" fill="#4ade80" opacity=".85"/>
+
+<rect x="510" y="224" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="516" y="229" width="22" height="22" rx="5" fill="#1e1b4b"/>
+<text x="527" y="244.5" font-size="10" font-weight="800" text-anchor="middle" fill="#818cf8">&lt;&gt;</text>
+<text x="546" y="244.5" font-size="11" font-weight="600" fill="#f8fafc">REST APIs</text>
+<circle cx="636" cy="240" r="3" fill="#4ade80" opacity=".85"/>
+
+<!-- COLUMN 3: AI / CV -->
+<rect x="664" y="60" width="154" height="212" rx="12" fill="#120e2e" stroke="#3b2f80" stroke-width="1.2"/>
+<text x="676" y="83" font-size="13" font-weight="700" fill="#fff">🧠 AI &amp; CV</text>
+<line x1="664" y1="94" x2="818" y2="94" stroke="#fb923c" stroke-opacity=".7" stroke-width="1.5"/>
+
+<rect x="672" y="104" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="678" y="109" width="22" height="22" rx="5" fill="#431407"/>
+<text x="689" y="125" font-size="10" font-weight="800" text-anchor="middle" fill="#fb923c">CV</text>
+<text x="708" y="124.5" font-size="11" font-weight="600" fill="#f8fafc">OpenCV</text>
+<circle cx="798" cy="120" r="3" fill="#fb923c" opacity=".85"/>
+
+<rect x="672" y="144" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="678" y="149" width="22" height="22" rx="5" fill="#451a03"/>
+<text x="689" y="164" font-size="8" font-weight="800" text-anchor="middle" fill="#f59e0b">YOLO</text>
+<text x="708" y="164.5" font-size="11" font-weight="600" fill="#f8fafc">YOLO</text>
+<circle cx="798" cy="160" r="3" fill="#fb923c" opacity=".85"/>
+
+<rect x="672" y="184" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="678" y="189" width="22" height="22" rx="5" fill="#451a03"/>
+<text x="689" y="205" font-size="10" font-weight="800" text-anchor="middle" fill="#fb923c">TF</text>
+<text x="708" y="204.5" font-size="11" font-weight="600" fill="#f8fafc">TensorFlow</text>
+<circle cx="798" cy="200" r="3" fill="#fb923c" opacity=".85"/>
+
+<rect x="672" y="224" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="678" y="229" width="22" height="22" rx="5" fill="#172554"/>
+<text x="689" y="244" font-size="8" font-weight="800" text-anchor="middle" fill="#60a5fa">SKL</text>
+<text x="708" y="244.5" font-size="11" font-weight="600" fill="#f8fafc">scikit-learn</text>
+<circle cx="798" cy="240" r="3" fill="#fb923c" opacity=".85"/>
+
+<!-- COLUMN 4: Data & Tools -->
+<rect x="826" y="60" width="154" height="212" rx="12" fill="#120e2e" stroke="#3b2f80" stroke-width="1.2"/>
+<text x="838" y="83" font-size="13" font-weight="700" fill="#fff">🗄️ Data &amp; Tools</text>
+<line x1="826" y1="94" x2="980" y2="94" stroke="#c084fc" stroke-opacity=".7" stroke-width="1.5"/>
+
+<rect x="834" y="104" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="840" y="109" width="22" height="22" rx="5" fill="#1e3a8a"/>
+<text x="851" y="124" font-size="8" font-weight="800" text-anchor="middle" fill="#93c5fd">SQL</text>
+<text x="870" y="124.5" font-size="11" font-weight="600" fill="#f8fafc">PostgreSQL</text>
+<circle cx="960" cy="120" r="3" fill="#c084fc" opacity=".85"/>
+
+<rect x="834" y="144" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="840" y="149" width="22" height="22" rx="5" fill="#1e1b4b"/>
+<text x="851" y="164.5" font-size="9" font-weight="800" text-anchor="middle" fill="#a5b4fc">MS</text>
+<text x="870" y="164.5" font-size="10.5" font-weight="600" fill="#f8fafc">MS SQL Server</text>
+<circle cx="960" cy="160" r="3" fill="#c084fc" opacity=".85"/>
+
+<rect x="834" y="184" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="840" y="189" width="22" height="22" rx="5" fill="#450a0a"/>
+<text x="851" y="204" font-size="9" font-weight="800" text-anchor="middle" fill="#f87171">Git</text>
+<text x="870" y="204.5" font-size="11" font-weight="600" fill="#f8fafc">Git &amp; GitHub</text>
+<circle cx="960" cy="200" r="3" fill="#c084fc" opacity=".85"/>
+
+<rect x="834" y="224" width="138" height="32" rx="8" fill="#0b081e" stroke="#241e54" stroke-width="1"/>
+<rect x="840" y="229" width="22" height="22" rx="5" fill="#3b0764"/>
+<text x="851" y="245" font-size="10" font-weight="800" text-anchor="middle" fill="#e879f9">Od</text>
+<text x="870" y="244.5" font-size="11" font-weight="600" fill="#f8fafc">Odoo</text>
+<circle cx="960" cy="240" r="3" fill="#c084fc" opacity=".85"/>
+</svg>

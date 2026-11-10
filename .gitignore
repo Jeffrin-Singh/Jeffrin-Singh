@@ -1,0 +1,69 @@
+# OS Metadata
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Editor & IDE Settings
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Node & Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Temporary & Cache Files
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+.temp/
+scratch/
+
+# Agents & Skills
+.agents/
+skills-lock.json
